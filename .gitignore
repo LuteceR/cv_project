@@ -1,0 +1,7 @@
+.venv
+EgoHands/
+eyth_dataset/
+
+utils/__pycache__
+segmentModel/__pycache__
+
